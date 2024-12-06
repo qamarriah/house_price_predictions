@@ -17,7 +17,7 @@ Prerequisites
 •	Libraries: Install using the provided requirements.txt file.
 Installation
 1.	Clone the Repository:
-2.	git clone https://github.com/your-repo/house-price-prediction.git
+2.	git clone https://github.com/qamarriah/house-price-predictions.git
 3.	cd house-price-prediction
 4.	Install Required Libraries: Create a virtual environment and install dependencies:
 5.	python -m venv venv
